@@ -1,6 +1,6 @@
 # Roman Numeral Converter
 
-This is a simple Laravel application for converting integers to Roman numerals and vice versa.
+This is a simple Laravel application for converting integers to Roman numerals.
 
 ## Installation
 
@@ -30,7 +30,7 @@ php artisan serve
 
 Usage
 Access the application in your web browser by visiting http://localhost:8000.
-Enter an integer in the input field and click "Convert" to get its Roman numeral representation.
+Enter an integer from 1 to 100000 in the input field and click "Convert" to get its Roman numeral representation.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.

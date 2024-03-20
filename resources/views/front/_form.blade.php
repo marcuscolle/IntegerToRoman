@@ -1,11 +1,10 @@
 <form action="{{route('front.convert')}}" method="POST">
     @csrf
         <x-input
-            id="integer"
+            id="converter"
             type="text"
-            name="integer"
-            placeholder="Enter a number"
-            label="Enter a number"
+            name="converter"
+            label="Enter a Number or Roman numeral"
             required="true"
         />
 

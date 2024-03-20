@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'index_title' => 'Roman Numeral Converter',
+    'index_title' => 'Roman & Numbers Converter',
 ];
